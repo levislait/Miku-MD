@@ -42,10 +42,10 @@
   
 ## ✧✧ Setup before deploy (Optional):
 ### Go to `config.js`
--  To change the `Owner Number`, go to line no `10`, `11` and `12` [ Note there 91 is my country code don't put + or spaces there ]
+-  To change the `Owner Number`, go to line no `10`, `11` and `12` +225 0545752448
 -  Change `Bot Prefix` in line no `23` inside global.prefa. [ Put anything you want except @ ] 
--  Change `Owner Name` in line no `16`
--  Change `Sticker packname` and `author` in line no `14` and `15`
+-  Change `Owner Name` levis
+-  Change `Sticker packname` levis 
 -  Using Android ?    [Click to Fork Repo](https://github.com/FantoX001/Miku-MD/fork)
 <br>
 <br>
@@ -104,7 +104,7 @@
 1. Copyright Free.
 2. No Source Code Encryption.
 3. Most commands.
-4. Singe prefix ("-").
+4. Singe prefix (-).
 5. Self restoration.
 6. No API key needed!
 7. Full premission to Recode.
